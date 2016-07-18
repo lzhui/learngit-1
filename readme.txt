@@ -1,6 +1,1 @@
-git is a distrution hahaiha.
-git is  free software.
-git tracks chage of file.
-git has push github.
-creating a new branch is quick and simple!
-哥你好
+woyaokaishi
